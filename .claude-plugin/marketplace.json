@@ -1,0 +1,11 @@
+{
+  "name": "study-loop",
+  "owner": { "name": "RyanM-Dev" },
+  "plugins": [
+    {
+      "name": "study-loop",
+      "source": "./",
+      "description": "Guided study of books, PDFs, courses and web docs, with progress tracking and reference notes."
+    }
+  ]
+}

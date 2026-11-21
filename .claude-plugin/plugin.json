@@ -1,0 +1,7 @@
+{
+  "name": "study-loop",
+  "version": "1.0.0",
+  "description": "Guided study of books, PDFs, courses and web docs: reading plans, recall, progress tracking, question logging, Obsidian/Markdown reference notes, a topic handbook, and faithful translation.",
+  "license": "MIT",
+  "keywords": ["study", "learning", "books", "obsidian", "notes", "reading-plan", "translation"]
+}
